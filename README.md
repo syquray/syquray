@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/103930835/203061387-52324fa9-bca6-4ddd-b6bd-c474fbb007f0.png">
-
 <h1 align="center">Hello, World! 🌍</h1>
 <p align="center"><big>a Python software developer, who likes VOCALOID™ songs</big></p>
 <p align="center"><sup>Is this okay?</sup></p>
