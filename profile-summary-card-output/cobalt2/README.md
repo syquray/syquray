@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/syquray/syquray/main/profile-summary-card-output/cobalt2/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/syquray/syquray/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
